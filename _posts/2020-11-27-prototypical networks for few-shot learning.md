@@ -4,6 +4,8 @@ mathjax: true
 toc : true
 tags : FewShotLearning
 ---
+$\mathbb{e}^{u_i}_j \leftarrow f_\theta(\mathbb{q}^{u_i}_j)$
+
 
 # prototypical networks for few-shot learning
 
